@@ -4,6 +4,6 @@
 public class Main {
     public static void main(String[] args) {
     System.out.println("Thisss is a test for DevOps");
-     System.out.println("Ssend mmaaail and slack notification!")
+     System.out.println("Ssend mmaaail and slack notification!");
     }
 }
